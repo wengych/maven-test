@@ -8,7 +8,7 @@
   <name>Maven Test</name>
   <version>1.0.0-SNAPSHOT</version>
   <scm>
-    <connection>scm:git:git://github.com/wengych/maven-test.git</connection>
+    <connection>scm:git:git@github.com/wengych/maven-test.git</connection>
     <url>https://github.com/wengych/maven-test</url>
   </scm>
 
